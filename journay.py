@@ -66,7 +66,7 @@ def view_entries(search_query=None):
         print('N) siguiente entrada')
         print('b) borrar una entrada')
         print('q) volver al menu')
-        siguiente_accion = input('Accion: [N/Q]    ').lower().strip()
+        siguiente_accion = input('Accion:     ').lower().strip()
         if siguiente_accion == 'q':
             break
         elif siguiente_accion == 'b':

@@ -1,4 +1,4 @@
 # journay-db
 Python journay using sqlite3.
 
-Test project for addind removing viewing entrys on a db using peewee
+Test project for adding, removing and viewing entrys on a db using peewee
